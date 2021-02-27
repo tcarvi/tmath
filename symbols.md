@@ -12,7 +12,7 @@
 `³`	&#179;	&sup3;	superscript three  
 `´`	&#180;	&acute;	acute accent  
 `µ`	&#181;	&micro;	micro sign  
-`·`	&#183;	&middot;	middle dot  
+`·`	&#183;	&middot; middle dot  
 `¸`	&#184;	&cedil;	spacing cedilla  
 `¹`	&#185;	&sup1;	superscript one  
 `º`	&#186;	&ordm;	masculine ordinal indicator  
